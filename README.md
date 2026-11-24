@@ -6,3 +6,7 @@
 - Adjusted text colors on the pink background to meet WCAG AA contrast requirements.
 - Tested text and background color combinations using WebAIM Contrast Checker.
 - Ran WAVE on all three pages and corrected the reported accessibility error.
+
+## Gestalt Principles
+- Figure-Ground: Used a white project card with a border to distinguish project content from the page background.
+- Proximity: Adjusted spacing between project headings and descriptions to show that related content belongs together.
